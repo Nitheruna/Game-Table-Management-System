@@ -1,0 +1,56 @@
+101
+Hollow Knight
+Metroidvania
+2017
+PC
+9.5
+Team Cherry
+102
+Witcher 3
+RPG
+2015
+PS4
+9.8
+CDPR
+103
+Elden Ring
+Soulslike
+2022
+PS5
+9.7
+FromSoftware
+104
+Valorant
+FPS
+2020
+PC
+8.9
+Riot Games
+105
+Minecraft
+Sandbox
+2011
+PC
+9.4
+Mojang
+106
+God of War
+Action
+2018
+PS4
+9.6
+Santa Monica
+107
+TFT
+AutoBattler
+2019
+PC
+8.7
+Riot Games
+241
+CMPE
+Theaching
+2025
+KHAS
+10
+Albert Ozkohen

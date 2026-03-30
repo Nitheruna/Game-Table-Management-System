@@ -1,0 +1,3 @@
+C:/Users/cansn/OneDrive/Masaüstü/3thYear_1/CMPE241/FINAL_PROJECT/cmake-build-debug/CMakeFiles/FINAL_PROJECT.dir
+C:/Users/cansn/OneDrive/Masaüstü/3thYear_1/CMPE241/FINAL_PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cansn/OneDrive/Masaüstü/3thYear_1/CMPE241/FINAL_PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
